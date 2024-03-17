@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2016-2019 crDroid Android Project
+ * Copyright (C) 2023-2024 the risingOS Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -13,30 +13,32 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
 package com.crdroid.settings.preferences;
 
 import android.content.Context;
-import android.provider.Settings;
-import android.os.UserHandle;
+import android.os.SystemProperties;
 import android.util.AttributeSet;
 
-import lineageos.preference.SelfRemovingSwitchPreference;
+import com.android.settingslib.development.SystemPropPoker;
+
+import lineageos.preference.SelfRemovingListPreference;
 
 import com.crdroid.settings.utils.AdaptivePreferenceUtils;
 
-public class GlobalSettingSwitchPreference extends SelfRemovingSwitchPreference {
+public class SystemPropertyListPreference extends SelfRemovingListPreference {
 
-    public GlobalSettingSwitchPreference(Context context, AttributeSet attrs, int defStyle) {
+    public SystemPropertyListPreference(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
         init(context, attrs);
     }
 
-    public GlobalSettingSwitchPreference(Context context, AttributeSet attrs) {
+    public SystemPropertyListPreference(Context context, AttributeSet attrs) {
         super(context, attrs);
         init(context, attrs);
     }
 
-    public GlobalSettingSwitchPreference(Context context) {
+    public SystemPropertyListPreference(Context context) {
         super(context);
         init(context, null);
     }
@@ -50,17 +52,17 @@ public class GlobalSettingSwitchPreference extends SelfRemovingSwitchPreference 
 
     @Override
     protected boolean isPersisted() {
-        return Settings.Global.getString(getContext().getContentResolver(), getKey()) != null;
+        return !SystemProperties.get(getKey(), "").isEmpty();
     }
 
     @Override
-    protected void putBoolean(String key, boolean value) {
-        Settings.Global.putInt(getContext().getContentResolver(), key, value ? 1 : 0);
+    protected void putString(String key, String value) {
+        SystemProperties.set(key, value);
+        SystemPropPoker.getInstance().poke();
     }
 
     @Override
-    protected boolean getBoolean(String key, boolean defaultValue) {
-        return Settings.Global.getInt(getContext().getContentResolver(),
-                key, defaultValue ? 1 : 0) != 0;
+    protected String getString(String key, String defaultValue) {
+        return SystemProperties.get(key, defaultValue);
     }
 }

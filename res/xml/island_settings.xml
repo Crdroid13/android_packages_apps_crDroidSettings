@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
-     Copyright (C) 2016-2022 crDroid Android Project
+     Copyright (C) 2023 the risingOS Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -18,30 +18,27 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:title="@string/sensor_block_title">
+    android:title="@string/island_notification_title">
 
-    <!-- Master switch -->
     <com.crdroid.settings.preferences.SystemSettingSwitchPreference
-        android:key="sensor_block"
-        android:title="@string/sensor_block_title"
-        android:summary="@string/sensor_block_summary"
+        android:key="island_notification"
+        android:title="@string/island_notification_title"
+        android:summary="@string/island_notification_summary"
         android:defaultValue="false"
-        app:position="solo" />
+        app:position="top" />
 
-    <!-- App picker activity for sensor block -->
-    <PreferenceCategory
-        android:title="@string/sensor_block_app_picker_title"
-        android:dependency="sensor_block"
-        android:key="sensor_block_applications">
-        <Preference
-            android:key="add_sensor_block_packages"
-            android:icon="@drawable/ic_menu_add_white"
-            android:title="@string/add_sensor_block_package_title" />
-    </PreferenceCategory>
+    <com.crdroid.settings.preferences.SystemSettingSwitchPreference
+        android:key="island_notification_now_playing"
+        android:title="@string/island_notification_now_playing_title"
+        android:summary="@string/island_notification_now_playing_summary"
+        android:dependency="island_notification"
+        android:defaultValue="true"
+        app:position="bottom" />
 
     <com.android.settingslib.widget.FooterPreference
-        android:key="sensor_block_footer"
+        android:key="island_notification_footer"
+        android:title="@string/island_notification_footer_text"
         android:selectable="false"
-        settings:searchable="false"
-        android:dependency="sensor_block" />
+        settings:searchable="false" />
+
 </PreferenceScreen>
