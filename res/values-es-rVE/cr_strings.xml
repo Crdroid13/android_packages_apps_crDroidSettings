@@ -520,6 +520,7 @@ Mantén presionado para establecer</string>
     <string name="navbar_app_switch_long_press_title">Últimas pulsaciones largas</string>
     <string name="navbar_app_switch_double_tap_title">Doble toque en el botón recientes</string>
     <string name="navbar_edge_long_swipe_title">Deslizar mucho hasta el borde</string>
+    <string name="navbar_corner_long_swipe_title">Bottom corner swipe up</string>
     <!-- Pocket judge -->
     <string name="pocket_judge_title">Detección de bolsillo</string>
     <string name="pocket_judge_summary">Bloquear pantalla y botones cuando el dispositivo esté en un bolsillo</string>
@@ -1137,6 +1138,6 @@ Mantén presionado para establecer</string>
     <string name="navigation_bar_ime_space_title">Espacio IME</string>
     <string name="navigation_bar_ime_space_summary">Añadir espacio debajo del teclado cuando la pista de navegación está deshabilitada</string>
     <!-- QS Bluetooth Dialog -->
-    <string name="qs_bt_show_dialog_title">Bluetooth tile dialog</string>
-    <string name="qs_bt_show_dialog_summary">Show bluetooth dialog or toggle bluetooth state on tapping bluetooth tile</string>
+    <string name="qs_bt_show_dialog_title">Diálogo de acceso a Bluetooth</string>
+    <string name="qs_bt_show_dialog_summary">Mostrar opciones de Bluetooth o activar/desactivar Bluetooth al pulsar el acceso rápido de Bluetooth</string>
 </resources>
