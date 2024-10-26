@@ -1141,6 +1141,6 @@
     <string name="qs_bt_show_dialog_title">Bluetooth ayarı iletisi</string>
     <string name="qs_bt_show_dialog_summary">Bluetooth düğmesine dokununca Bluetooth iletişimini göster veya Bluetooth\'u kapat ya da aç</string>
     <!-- Carrier name on lockscreen -->
-    <string name="lockscreen_show_carrier_title">Carrier name</string>
-    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+    <string name="lockscreen_show_carrier_title">Operatör adı</string>
+    <string name="lockscreen_show_carrier_summary">Durum çubuğunda operatör adını göster</string>
 </resources>
