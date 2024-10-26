@@ -1141,4 +1141,7 @@ Les notifications flottantes seront automatiquement désactivées.</string>
     <!-- QS Bluetooth Dialog -->
     <string name="qs_bt_show_dialog_title">Boîte de dialogue Bluetooth</string>
     <string name="qs_bt_show_dialog_summary">Afficher la boîte de dialogue Bluetooth ou basculer l’état du Bluetooth en appuyant sur l’icône Bluetooth</string>
+    <!-- Carrier name on lockscreen -->
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
 </resources>
