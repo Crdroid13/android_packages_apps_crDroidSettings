@@ -1140,4 +1140,7 @@ Mantén presionado para establecer</string>
     <!-- QS Bluetooth Dialog -->
     <string name="qs_bt_show_dialog_title">Diálogo de acceso a Bluetooth</string>
     <string name="qs_bt_show_dialog_summary">Mostrar opciones de Bluetooth o activar/desactivar Bluetooth al pulsar el acceso rápido de Bluetooth</string>
+    <!-- Carrier name on lockscreen -->
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
 </resources>
