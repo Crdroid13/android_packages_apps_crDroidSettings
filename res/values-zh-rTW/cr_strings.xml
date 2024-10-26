@@ -1137,4 +1137,7 @@
     <!-- QS Bluetooth Dialog -->
     <string name="qs_bt_show_dialog_title">藍牙快速設定對話框</string>
     <string name="qs_bt_show_dialog_summary">點選藍牙快速設定圖示，可開啟藍牙設定或直接開啟/關閉藍牙。</string>
+    <!-- Carrier name on lockscreen -->
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
 </resources>
