@@ -1141,4 +1141,7 @@
     <!-- QS Bluetooth Dialog -->
     <string name="qs_bt_show_dialog_title">Finestra tile Bluetooth</string>
     <string name="qs_bt_show_dialog_summary">Mostra la finestra di dialogo del bluetooth o attiva/disattiva lo stato del bluetooth quando si tocca il tile del bluetooth</string>
+    <!-- Carrier name on lockscreen -->
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
 </resources>
