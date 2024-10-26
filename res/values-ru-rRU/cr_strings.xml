@@ -1146,4 +1146,7 @@
     <!-- QS Bluetooth Dialog -->
     <string name="qs_bt_show_dialog_title">Диалог плитки Bluetooth</string>
     <string name="qs_bt_show_dialog_summary">Показывать диалоговое окно или переключать состояние при нажатии на плитку Bluetooth</string>
+    <!-- Carrier name on lockscreen -->
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
 </resources>
