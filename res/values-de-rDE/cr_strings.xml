@@ -1141,4 +1141,7 @@ Die in Apps festgelegten Muster haben Vorrang</string>
     <!-- QS Bluetooth Dialog -->
     <string name="qs_bt_show_dialog_title">Bluetooth-Kachel-Dialogfeld</string>
     <string name="qs_bt_show_dialog_summary">Beim Tippen der Bluetooth-Kachel Bluetooth-Dialogfeld anzeigen oder Bluetooth ein-/ausschalten</string>
+    <!-- Carrier name on lockscreen -->
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
 </resources>
