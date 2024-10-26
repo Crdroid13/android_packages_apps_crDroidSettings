@@ -1148,4 +1148,7 @@
     <!-- QS Bluetooth Dialog -->
     <string name="qs_bt_show_dialog_title">דו-שיח אריח ההגדרות המהירות Bluetooth</string>
     <string name="qs_bt_show_dialog_summary">הצגת דו-שיח של Bluetooth או שינוי מצב ההפעלה בלחיצה על האריח</string>
+    <!-- Carrier name on lockscreen -->
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
 </resources>
