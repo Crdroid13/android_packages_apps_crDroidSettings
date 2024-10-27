@@ -234,6 +234,8 @@
     <string name="monet_engine_luminance_factor_summary">Giá trị cao hơn cho ra màu sáng hơn</string>
     <string name="monet_engine_chroma_factor_title">Yếu tố sắc tố</string>
     <string name="monet_engine_chroma_factor_summary">Giá trị cao hơn cho ra màu đậm hơn</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">Màu của nền</string>
     <string name="monet_engine_tint_background_summary">Tùy chỉnh độ sáng và độ trong cũng ảnh hưởng đến màu nền</string>
     <string name="monet_engine_style_title">Kiểu chủ đề</string>
