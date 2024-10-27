@@ -235,6 +235,8 @@
     <string name="monet_engine_luminance_factor_summary">Korkeammat arvot tuottavat kirkkaampia värejä</string>
     <string name="monet_engine_chroma_factor_title">Chroma-kerroin</string>
     <string name="monet_engine_chroma_factor_summary">Korkeammat arvot tuottavat vahvempia värejä</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">Taustan sävy</string>
     <string name="monet_engine_tint_background_summary">Laita luminanssin ja chroman valinta vaikuttamaan myös taustaväreihin</string>
     <string name="monet_engine_style_title">Teeman tyyli</string>
