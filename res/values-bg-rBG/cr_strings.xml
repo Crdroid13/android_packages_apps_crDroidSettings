@@ -235,6 +235,8 @@
     <string name="monet_engine_luminance_factor_summary">较高的值会产生更亮的颜色</string>
     <string name="monet_engine_chroma_factor_title">Цветност фактор</string>
     <string name="monet_engine_chroma_factor_summary">较高的值会产生更强烈的颜色</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">色调背景</string>
     <string name="monet_engine_tint_background_summary">让亮度和饱和度的变化也影响背景颜色</string>
     <string name="monet_engine_style_title">Theme style</string>
