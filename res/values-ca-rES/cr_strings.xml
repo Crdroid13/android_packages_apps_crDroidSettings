@@ -235,6 +235,8 @@
     <string name="monet_engine_luminance_factor_summary">Valors més alts produeixen colors més brillants</string>
     <string name="monet_engine_chroma_factor_title">Factor cromátic</string>
     <string name="monet_engine_chroma_factor_summary">Valors més alts produeixen colors més forts</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">Tint del fons</string>
     <string name="monet_engine_tint_background_summary">Fes que la selecció de luminància i crominància afecti també els colors de fons</string>
     <string name="monet_engine_style_title">Estil del tema</string>
