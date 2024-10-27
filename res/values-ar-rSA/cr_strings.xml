@@ -240,6 +240,8 @@
     <string name="monet_engine_luminance_factor_summary">إدخال قيم أعلى ينتج ألوانًا أسطع</string>
     <string name="monet_engine_chroma_factor_title">عامل Chroma</string>
     <string name="monet_engine_chroma_factor_summary">إدخال قيم أعلى تنتج ألوانًا أكثر تشبعًا</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">خلفية التظليل</string>
     <string name="monet_engine_tint_background_summary">اجعل لون الإضاءة والكروما يؤثران على ألوان الخلفية</string>
     <string name="monet_engine_style_title">نمط السمة</string>
