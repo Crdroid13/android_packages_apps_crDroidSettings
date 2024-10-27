@@ -1141,6 +1141,6 @@
     <string name="qs_bt_show_dialog_title">Bluetooth tegel dialoog</string>
     <string name="qs_bt_show_dialog_summary">Bluetooth dialoogvenster weergeven of bluetooth status in-/uitschakelen bij het aanraken van bluetooth tegel</string>
     <!-- Carrier name on lockscreen -->
-    <string name="lockscreen_show_carrier_title">Carrier name</string>
-    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+    <string name="lockscreen_show_carrier_title">Operator naam</string>
+    <string name="lockscreen_show_carrier_summary">Operator naam in de statusbalk weergeven</string>
 </resources>
