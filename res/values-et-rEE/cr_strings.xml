@@ -235,6 +235,8 @@
     <string name="monet_engine_luminance_factor_summary">Suuremad väärtused loovad eredamaid värve</string>
     <string name="monet_engine_chroma_factor_title">Kroomifaktor</string>
     <string name="monet_engine_chroma_factor_summary">Suuremad väärtused loovad tugevamaid värve</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">Toonita taust</string>
     <string name="monet_engine_tint_background_summary">Heleduse ja kromaatika valik mõjutab ka taustavärve</string>
     <string name="monet_engine_style_title">Teema stiil</string>
