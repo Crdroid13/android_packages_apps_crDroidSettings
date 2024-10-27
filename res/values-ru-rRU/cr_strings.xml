@@ -237,6 +237,8 @@
     <string name="monet_engine_luminance_factor_summary">Чем больше значение, тем ярче цвета</string>
     <string name="monet_engine_chroma_factor_title">Цветность</string>
     <string name="monet_engine_chroma_factor_summary">Чем больше значение, тем насыщеннее цвета</string>
+    <string name="monet_engine_whole_palette_title">Вся палитра</string>
+    <string name="monet_engine_whole_palette_summary">Выбор яркости и насыщенности также влияет на второстепенные цвета</string>
     <string name="monet_engine_tint_background_title">Оттенок фона</string>
     <string name="monet_engine_tint_background_summary">Выбор яркости и цветности, позволяет также влиять на цвета фона</string>
     <string name="monet_engine_style_title">Тема оформления</string>
