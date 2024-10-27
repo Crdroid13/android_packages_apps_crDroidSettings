@@ -235,6 +235,8 @@
     <string name="monet_engine_luminance_factor_summary">Υψηλότερες τιμές παράγουν φωτεινότερα χρώματα</string>
     <string name="monet_engine_chroma_factor_title">Συντελεστής χρωματισμού</string>
     <string name="monet_engine_chroma_factor_summary">Υψηλότερες τιμές παράγουν ισχυρότερα χρώματα</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">Απόχρωση φόντου</string>
     <string name="monet_engine_tint_background_summary">Κάντε τη φωτεινότητα και την επιλογή χρώματος να επηρεάσουν επίσης τα χρώματα του φόντου</string>
     <string name="monet_engine_style_title">Στυλ θέματος</string>
