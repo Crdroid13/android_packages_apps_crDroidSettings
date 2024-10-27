@@ -235,8 +235,8 @@
     <string name="monet_engine_luminance_factor_summary">Daha yüksek değerler daha parlak renkler üretir</string>
     <string name="monet_engine_chroma_factor_title">Berraklık faktörü</string>
     <string name="monet_engine_chroma_factor_summary">Daha yüksek değerler daha güçlü renkler üretir</string>
-    <string name="monet_engine_whole_palette_title">Whole palette</string>
-    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_whole_palette_title">Tüm palet</string>
+    <string name="monet_engine_whole_palette_summary">Parlaklık ve renk seçiminin arka plan renklerini de etkilemesini sağlayın</string>
     <string name="monet_engine_tint_background_title">Renkli arka plan</string>
     <string name="monet_engine_tint_background_summary">Parlaklık ve renk seçiminin arka plan renklerini de etkilemesini sağlayın</string>
     <string name="monet_engine_style_title">Tema stili</string>
