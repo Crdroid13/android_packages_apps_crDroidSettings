@@ -237,6 +237,8 @@
     <string name="monet_engine_luminance_factor_summary">Višje vrednosti ustvarijo svetlejše barve</string>
     <string name="monet_engine_chroma_factor_title">Dejavnik krome</string>
     <string name="monet_engine_chroma_factor_summary">Višje vrednosti dajejo močnejše barve</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">Odtenek ozadja</string>
     <string name="monet_engine_tint_background_summary">Izbira svetlosti in kroma vpliva tudi na barve ozadja</string>
     <string name="monet_engine_style_title">Slog teme</string>
