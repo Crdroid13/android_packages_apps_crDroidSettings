@@ -237,6 +237,8 @@
     <string name="monet_engine_luminance_factor_summary">Wyższe wartości tworzą jaśniejsze kolory</string>
     <string name="monet_engine_chroma_factor_title">Współczynnik barwy</string>
     <string name="monet_engine_chroma_factor_summary">Wyższe wartości tworzą mocniejsze kolory</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">Odcień tła</string>
     <string name="monet_engine_tint_background_summary">Spraw, aby wybór luminancji i chrominancji wpływał również na kolory tła</string>
     <string name="monet_engine_style_title">Motyw</string>
