@@ -235,8 +235,8 @@
     <string name="monet_engine_luminance_factor_summary">Höhere Werte erzeugen hellere Farben</string>
     <string name="monet_engine_chroma_factor_title">Sättigungsfaktor</string>
     <string name="monet_engine_chroma_factor_summary">Höhere Werte erzeugen kräftigere Farben</string>
-    <string name="monet_engine_whole_palette_title">Whole palette</string>
-    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_whole_palette_title">Gesamte Palette</string>
+    <string name="monet_engine_whole_palette_summary">Leuchtkraft- und Sättigungseinstellung Einfluss auf die Sekundärfarben nehmen lassen</string>
     <string name="monet_engine_tint_background_title">Hintergrund einfärben</string>
     <string name="monet_engine_tint_background_summary">Leuchtkraft- und Sättigungseinstellung Einfluss auf die Farben des Hintergrundbilds nehmen lassen</string>
     <string name="monet_engine_style_title">Designstil</string>
