@@ -234,6 +234,8 @@
     <string name="monet_engine_luminance_factor_summary">높은 값은 더 밝은 색을 만듬</string>
     <string name="monet_engine_chroma_factor_title">크로마 팩터</string>
     <string name="monet_engine_chroma_factor_summary">높은 값은 더 강한 색을 만듬</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
     <string name="monet_engine_tint_background_title">배경 틴트</string>
     <string name="monet_engine_tint_background_summary">밝기와 채도가 배경색에 영향을 미치도록 함</string>
     <string name="monet_engine_style_title">테마 스타일</string>
