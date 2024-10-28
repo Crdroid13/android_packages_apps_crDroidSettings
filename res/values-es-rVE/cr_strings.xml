@@ -236,8 +236,8 @@ Mantén presionado para establecer</string>
     <string name="monet_engine_luminance_factor_summary">Valores más altos producen colores más brillantes</string>
     <string name="monet_engine_chroma_factor_title">Factor cromático</string>
     <string name="monet_engine_chroma_factor_summary">Valores más altos producen colores más fuertes</string>
-    <string name="monet_engine_whole_palette_title">Whole palette</string>
-    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_whole_palette_title">Toda la paleta</string>
+    <string name="monet_engine_whole_palette_summary">Hacer que la selección de luminancia y croma también afecte a los colores secundarios</string>
     <string name="monet_engine_tint_background_title">Tinte de fondo</string>
     <string name="monet_engine_tint_background_summary">Hacer que la luminosidad y la selección cromática también afecten el color del fondo</string>
     <string name="monet_engine_style_title">Estilo del tema</string>
@@ -247,6 +247,7 @@ Mantén presionado para establecer</string>
     <string name="monet_engine_style_spritz">Spritz</string>
     <string name="monet_engine_style_rainbow">Arcoiris</string>
     <string name="monet_engine_style_fruit_salad">Ensalada de frutas</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
     <string name="monet_engine_color_source_title">Fuente de color</string>
     <string name="monet_engine_color_source_both">Ambos (por defecto)</string>
     <string name="monet_engine_color_source_home">Fondo de pantalla de inicio</string>
