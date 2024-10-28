@@ -237,8 +237,8 @@
     <string name="monet_engine_luminance_factor_summary">Wyższe wartości tworzą jaśniejsze kolory</string>
     <string name="monet_engine_chroma_factor_title">Współczynnik barwy</string>
     <string name="monet_engine_chroma_factor_summary">Wyższe wartości tworzą mocniejsze kolory</string>
-    <string name="monet_engine_whole_palette_title">Whole palette</string>
-    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_whole_palette_title">Cała paleta</string>
+    <string name="monet_engine_whole_palette_summary">Spraw, aby jasność i chroma wpływały również na kolory dodatkowe</string>
     <string name="monet_engine_tint_background_title">Odcień tła</string>
     <string name="monet_engine_tint_background_summary">Spraw, aby wybór luminancji i chrominancji wpływał również na kolory tła</string>
     <string name="monet_engine_style_title">Motyw</string>
@@ -248,6 +248,7 @@
     <string name="monet_engine_style_spritz">Spritz</string>
     <string name="monet_engine_style_rainbow">Tęcza</string>
     <string name="monet_engine_style_fruit_salad">Sałatka owocowa</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
     <string name="monet_engine_color_source_title">Źródło koloru</string>
     <string name="monet_engine_color_source_both">Oba (domyślnie)</string>
     <string name="monet_engine_color_source_home">Z tła ekranu głównego</string>
@@ -1149,6 +1150,6 @@
     <string name="qs_bt_show_dialog_title">Okno dialogowe kafelka Bluetooth</string>
     <string name="qs_bt_show_dialog_summary">Wyświetlaj okno dialogowe Bluetooth lub przełączaj stan Bluetooth po dotknięciu kafelka Bluetooth</string>
     <!-- Carrier name on lockscreen -->
-    <string name="lockscreen_show_carrier_title">Carrier name</string>
-    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+    <string name="lockscreen_show_carrier_title">Nazwa operatora</string>
+    <string name="lockscreen_show_carrier_summary">Pokazuj nazwę operatora na pasku stanu</string>
 </resources>
