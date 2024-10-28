@@ -248,6 +248,7 @@
     <string name="monet_engine_style_spritz">Spritz</string>
     <string name="monet_engine_style_rainbow">Mavrično</string>
     <string name="monet_engine_style_fruit_salad">Sadna solata</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
     <string name="monet_engine_color_source_title">Barvni vir</string>
     <string name="monet_engine_color_source_both">Oba (privzeto)</string>
     <string name="monet_engine_color_source_home">Ozadje domačega zaslona</string>
