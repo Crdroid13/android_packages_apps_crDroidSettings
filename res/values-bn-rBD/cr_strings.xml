@@ -246,6 +246,7 @@
     <string name="monet_engine_style_spritz">স্প্রিটজ</string>
     <string name="monet_engine_style_rainbow">রংধনু</string>
     <string name="monet_engine_style_fruit_salad">ফলের সালাদ</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
     <string name="monet_engine_color_source_title">রঙের উৎস</string>
     <string name="monet_engine_color_source_both">উভয় (ডিফল্ট)</string>
     <string name="monet_engine_color_source_home">হোম ওয়ালপেপার</string>
