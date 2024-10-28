@@ -246,6 +246,7 @@
     <string name="monet_engine_style_spritz">Spritz</string>
     <string name="monet_engine_style_rainbow">Arco-íris</string>
     <string name="monet_engine_style_fruit_salad">Salada de Frutas</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
     <string name="monet_engine_color_source_title">Fonte de cor</string>
     <string name="monet_engine_color_source_both">Ambos (Padrão)</string>
     <string name="monet_engine_color_source_home">Papel de parede</string>
