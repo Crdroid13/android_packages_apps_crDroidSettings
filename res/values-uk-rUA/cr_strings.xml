@@ -238,7 +238,7 @@
     <string name="monet_engine_chroma_factor_title">Інтенсивність кольору</string>
     <string name="monet_engine_chroma_factor_summary">Вищі значення дають більш насичені кольори</string>
     <string name="monet_engine_whole_palette_title">Повна палітра</string>
-    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_whole_palette_summary">Вибір яскравості та насиченості також впливає на вторинні кольори</string>
     <string name="monet_engine_tint_background_title">Відтінок фону</string>
     <string name="monet_engine_tint_background_summary">Зробити так, щоб вибір яскравості та кольоровості також впливав на кольори фону</string>
     <string name="monet_engine_style_title">Стиль теми</string>
@@ -248,6 +248,7 @@
     <string name="monet_engine_style_spritz">Бризки</string>
     <string name="monet_engine_style_rainbow">Веселка</string>
     <string name="monet_engine_style_fruit_salad">Фруктовий салат</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
     <string name="monet_engine_color_source_title">Джерело кольору</string>
     <string name="monet_engine_color_source_both">Обидва (за замовчуванням)</string>
     <string name="monet_engine_color_source_home">Шпалери головної сторінки</string>
