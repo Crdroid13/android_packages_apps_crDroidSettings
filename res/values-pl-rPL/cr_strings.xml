@@ -128,12 +128,12 @@
     <!-- Button settings -->
     <string name="extras_title">Dodatki</string>
     <string name="additional_buttons_title">Dodatkowe przyciski</string>
-    <string name="hardware_keys_power_key_title">Przycisk \"Zasilanie\"</string>
-    <string name="hardware_keys_home_key_title">Przycisk \"Ekran główny\"</string>
-    <string name="hardware_keys_back_key_title">Przycisk \"Wstecz\"</string>
-    <string name="hardware_keys_menu_key_title">Przycisk \"Menu\"</string>
-    <string name="hardware_keys_assist_key_title">Przycisk \"Szukaj\"</string>
-    <string name="hardware_keys_appswitch_key_title">Przycisk \"Ostatnio uruchomione aplikacje\"</string>
+    <string name="hardware_keys_power_key_title">Przycisk \"zasilanie\"</string>
+    <string name="hardware_keys_home_key_title">Przycisk \"ekran główny\"</string>
+    <string name="hardware_keys_back_key_title">Przycisk \"wstecz\"</string>
+    <string name="hardware_keys_menu_key_title">Przycisk \"menu\"</string>
+    <string name="hardware_keys_assist_key_title">Przycisk \"szukaj\"</string>
+    <string name="hardware_keys_appswitch_key_title">Przycisk \"ostatnio uruchomione aplikacje\"</string>
     <string name="hardware_keys_camera_key_title">Przycisk aparatu</string>
     <string name="hardware_keys_volume_keys_title">Przyciski głośności</string>
     <string name="hardware_keys_short_press_title">Akcja dla krótkiego naciśnięcia</string>
