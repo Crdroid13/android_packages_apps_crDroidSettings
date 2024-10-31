@@ -911,7 +911,7 @@
     <string name="qs_footer_datausage_title">Datennutzung</string>
     <string name="qs_footer_datausage_summary">In der Fußzeile der Schnelleinstellungen die Datennutzung anzeigen</string>
     <!-- QS Tiles animation  -->
-    <string name="qs_tile_animation_title">Schnelleinstellungs Kacheln</string>
+    <string name="qs_tile_animation_title">Kachelanimation</string>
     <string name="qs_tile_animation_style_title">Animationsstil</string>
     <string name="qs_tile_animation_duration_title">Animationsdauer</string>
     <string name="qs_tile_animation_interpolator_title">Interpolation der Kachelanimation</string>
