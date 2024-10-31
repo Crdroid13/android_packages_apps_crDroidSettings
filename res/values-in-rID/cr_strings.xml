@@ -149,7 +149,7 @@
     <string name="hardware_keys_action_nothing">Tidak ada tindakan</string>
     <string name="hardware_keys_action_menu">Buka/Tutup menu</string>
     <string name="hardware_keys_action_app_switch">Pengalih aplikasi terbaru</string>
-    <string name="hardware_keys_action_search">Pencarian asisten</string>
+    <string name="hardware_keys_action_search">Asisten pencarian</string>
     <string name="hardware_keys_action_voice_search">Pencarian suara</string>
     <string name="hardware_keys_action_in_app_search">Penelusuran dalam aplikasi</string>
     <string name="hardware_keys_action_launch_camera">Peluncuran kamera</string>
@@ -418,7 +418,7 @@
     <string name="qs_battery_location_qs_statusbar">Bilah Status Cepat</string>
     <string name="qs_use_status_bar_battery_style">Ikuti gaya bilah status</string>
     <!-- Battery estimate -->
-    <string name="battery_estimate_title">Perkiraan Baterai</string>
+    <string name="battery_estimate_title">Estimasi Baterai</string>
     <string name="battery_estimate_summary">Tampilkan estimasi daya baterai apabila tersedia</string>
     <!-- Network traffic -->
     <string name="network_traffic_settings_title">Monitor lalu lintas jaringan</string>
@@ -454,22 +454,22 @@
     <string name="media_art_title">Sampul album media</string>
     <string name="media_art_summary">Tampilkan sampul media jika tersedia</string>
     <!-- Lockscreen album art filter -->
-    <string name="lockscreen_albumart_filter_title">Filter seni sampul media</string>
+    <string name="lockscreen_albumart_filter_title">Filter sampul media</string>
     <string name="lockscreen_albumart_filter_none">Tidak ada</string>
     <string name="lockscreen_albumart_filter_grayscale">Skala abu-abu</string>
-    <string name="lockscreen_albumart_filter_tint">Aksen diwarnai</string>
+    <string name="lockscreen_albumart_filter_tint">Aksen yang diwarnai</string>
     <string name="lockscreen_albumart_filter_blur">Mengaburkan</string>
     <string name="lockscreen_albumart_filter_grayblur">Skala abu-abu dan kabur</string>
     <!-- Pulse music visualizer -->
-    <string name="pulse_help_policy_notice_title">Tentang Visual Audio</string>
-    <string name="pulse_help_policy_notice_summary">Visual Audio adalah equalizer grafis audio yang brilian saat musik diputar di perangkat</string>
-    <string name="pulse_settings">Visual Audio</string>
+    <string name="pulse_help_policy_notice_title">Tentang Audio Pulse</string>
+    <string name="pulse_help_policy_notice_summary">Audio Pulse adalah equalizer grafis audio yang brilian saat musik diputar di perangkat</string>
+    <string name="pulse_settings">Audio Pulse</string>
     <string name="pulse_settings_summary">Equalizer grafis audio untuk bilah navigasi dan layar kunci</string>
-    <string name="show_navbar_pulse_title">Visual Audio Bilah Navigasi</string>
+    <string name="show_navbar_pulse_title">Audio Pulse Bilah Navigasi</string>
     <string name="show_navbar_pulse_summary">Equalizer grafis audio pada bilah navigasi</string>
-    <string name="show_lockscreen_pulse_title">Visual Audio Layar Kunci</string>
+    <string name="show_lockscreen_pulse_title">Audio Pulse Layar Kunci</string>
     <string name="show_lockscreen_pulse_summary">Equalizer grafis audio pada layar kunci</string>
-    <string name="show_ambient_pulse_title">Visual Audio Layar Ambien</string>
+    <string name="show_ambient_pulse_title">Audio Pulse Layar Ambien</string>
     <string name="show_ambient_pulse_summary">Equalizer grafis audio pada layar ambien</string>
     <string name="pulse_render_mode_title">Mode render</string>
     <string name="pulse_render_mode_fading_bars">Blok memudar</string>
@@ -488,7 +488,7 @@
     <string name="pulse_color_lava_lamp">Lampu lava</string>
     <string name="pulse_color_auto">Album</string>
     <string name="pulse_color_user_title">Pilih warna</string>
-    <string name="pulse_smoothing_enabled_title">Aktifkan smoothing</string>
+    <string name="pulse_smoothing_enabled_title">Aktifkan penghalusan</string>
     <string name="pulse_smoothing_enabled_summary">Setiap bar dianimasikan lebih halus</string>
     <string name="pulse_custom_dimen">Lebar bar</string>
     <string name="pulse_custom_div">Jarak bar</string>
@@ -538,7 +538,7 @@
     <string name="volume_steps_ring_title">Tingkat volume: Dering</string>
     <string name="volume_steps_system_title">Tingkat volume: Sistem</string>
     <string name="volume_steps_voice_call_title">Tingkat volume: Panggilan Suara</string>
-    <string name="volume_steps_reset">Setel ulang</string>
+    <string name="volume_steps_reset">Atur ulang</string>
     <string name="volume_steps_60">60</string>
     <string name="volume_steps_45">45</string>
     <string name="volume_steps_30">30</string>
@@ -556,7 +556,7 @@
     <string name="qs_footer_edit_icon_title">Mengedit ikon ubin</string>
     <string name="qs_footer_show_power_menu_title">Pintasan menu daya</string>
     <string name="qs_footer_services_icon_title">Pintasan Layanan Berjalan</string>
-    <string name="qs_footer_settings_icon_title">Setelan pintasan</string>
+    <string name="qs_footer_settings_icon_title">Pengaturan pintasan</string>
     <!-- Device Info screen. crDroid legal. -->
     <string name="crdroid_license_title">Hukum crDroid</string>
     <!-- Quick Settings brightness slider -->
@@ -571,7 +571,7 @@
     <string name="qs_brightness_slider_position_bottom">Bawah</string>
     <!-- Brightness slider haptic feedback -->
     <string name="qs_brightness_slider_haptic_title">Umpan balik haptik</string>
-    <string name="qs_brightness_slider_haptic_summary">Berikan umpan balik haptik untuk mengubah kecerahan menggunakan slider</string>
+    <string name="qs_brightness_slider_haptic_summary">Berikan getaran untuk mengubah kecerahan menggunakan slider</string>
     <!-- Quick Settings brightness icon -->
     <string name="qs_show_auto_brightness_title">Ikon Kecerahan Otomatis</string>
     <string name="qs_show_auto_brightness_summary">Tampilkan tombol kecerahan otomatis di dekat slider kecerahan</string>
@@ -637,7 +637,7 @@
     <!-- Lights settings, LED notification -->
     <string name="led_notification_title">Pengaturan cahaya</string>
     <string name="led_notification_text">Lampu LED diaktifkan oleh pengaturan</string>
-    <string name="notification_light_add_apps_empty_summary">Untuk menambahkan per kontrol aplikasi, aktifkan \'%1$s\' dan tekan \'Tambah\'</string>
+    <string name="notification_light_add_apps_empty_summary">Untuk menambahkan kontrol per aplikasi, aktifkan \'%1$s\' dan tekan \'Tambah\'</string>
     <!-- Heads up timeout -->
     <string name="notification_heads_up_title">Notifikasi mengambang</string>
     <string name="notification_heads_up_summary">Izinkan notifikasi mengambang</string>
@@ -647,7 +647,7 @@
     <string name="less_boring_heads_up_title">Kurangi frekuensi</string>
     <string name="less_boring_heads_up_summary">Tampilkan notifikasi mengambang hanya untuk aplikasi alarm, telepon, dan pesan</string>
     <!-- Notifications while screen on -->
-    <string name="notification_sound_vib_screen_on_title">Notifikasi berisik</string>
+    <string name="notification_sound_vib_screen_on_title">Notifikasi bising</string>
     <string name="notification_sound_vib_screen_on_summary">Memutar suara dan getaran untuk notifikasi saat layar hidup</string>
     <!-- Privacy Indicator -->
     <string name="mic_camera_privacy_indicator_title">Indikator privasi mikrofon dan kamera</string>
@@ -680,8 +680,8 @@
     <string name="pixel_navbar_anim_title">Animasi Pixel</string>
     <string name="pixel_navbar_anim_summary">Aktifkan animasi gaya pixel untuk bilah navigasi 2/3 tombol</string>
     <!-- Fingerprint Ripple Effect -->
-    <string name="enable_fingerprint_ripple_effect_title">Efek riak</string>
-    <string name="enable_fingerprint_ripple_effect_summary">Tampilkan efek riak saat membuka kunci dengan sidik jari</string>
+    <string name="enable_fingerprint_ripple_effect_title">Efek Ripple</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Tampilkan efek Ripple saat membuka kunci dengan sidik jari</string>
     <!-- Old mobiletype icon style -->
     <string name="old_mobiletype_title">Ikon sinyal gaya lama</string>
     <string name="old_mobiletype_summary">Gabungkan ikon sinyal dan tipe sinyal</string>
@@ -699,7 +699,7 @@
     <string name="charging_animation_title">Animasi pengisian daya</string>
     <string name="charging_animation_summary">Tampilkan animasi saat perangkat diisi daya</string>
     <!-- One shot automatic brightness -->
-    <string name="auto_brightness_one_shot_title">Kecerahan otomatis satu bidikan</string>
+    <string name="auto_brightness_one_shot_title">Kecerahan otomatis sekali tekan</string>
     <string name="auto_brightness_one_shot_summary">Penyesuaian kecerahan hanya akan terjadi pada saat layar dihidupkan</string>
     <!-- Per-app volume -->
     <string name="app_volume">Volume aplikasi</string>
