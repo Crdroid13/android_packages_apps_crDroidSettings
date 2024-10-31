@@ -392,7 +392,7 @@
     <string name="status_bar_battery_percent_hidden">Ukryty</string>
     <string name="status_bar_battery_percent_text_inside">Wewnątrz ikony</string>
     <string name="status_bar_battery_percent_text_next_right">Poza ikoną (po prawej)</string>
-    <string name="status_bar_battery_percent_text_next_left">Obok ikony (po lewej)</string>
+    <string name="status_bar_battery_percent_text_next_left">Poza ikoną (po lewej)</string>
     <string name="status_bar_battery_text_charging_title">Poziom baterii w trakcie ładowania</string>
     <string name="status_bar_battery_text_charging_summary">Zawsze wyświetlaj poziom baterii w trakcie ładowania</string>
     <!-- Status bar - Battery Bar -->
