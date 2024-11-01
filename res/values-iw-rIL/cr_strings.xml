@@ -1158,5 +1158,5 @@
     <string name="statusbar_extra_padding_category">דיפון נוסף</string>
     <string name="statusbar_extra_padding_start_title">דיפון ההתחלה</string>
     <string name="statusbar_extra_padding_top_title">דיפון עליון</string>
-    <string name="statusbar_extra_padding_end_title">End padding</string>
+    <string name="statusbar_extra_padding_end_title">דיפון הסיום</string>
 </resources>
