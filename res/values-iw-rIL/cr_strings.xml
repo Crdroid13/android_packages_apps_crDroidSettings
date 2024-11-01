@@ -1155,8 +1155,8 @@
     <string name="lockscreen_show_carrier_title">שם ספק השירות</string>
     <string name="lockscreen_show_carrier_summary">הצגת שם ספק השירות בשורת המצב</string>
     <!-- Statusbar Padding -->
-    <string name="statusbar_extra_padding_category">Extra padding</string>
-    <string name="statusbar_extra_padding_start_title">Start padding</string>
-    <string name="statusbar_extra_padding_top_title">Top padding</string>
+    <string name="statusbar_extra_padding_category">דיפון נוסף</string>
+    <string name="statusbar_extra_padding_start_title">דיפון ההתחלה</string>
+    <string name="statusbar_extra_padding_top_title">דיפון עליון</string>
     <string name="statusbar_extra_padding_end_title">End padding</string>
 </resources>
