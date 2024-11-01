@@ -1148,4 +1148,9 @@
     <!-- Carrier name on lockscreen -->
     <string name="lockscreen_show_carrier_title">Szolgáltatónév</string>
     <string name="lockscreen_show_carrier_summary">A Szolgáltató neve megjelenik az állapotsoron</string>
+    <!-- Statusbar Padding -->
+    <string name="statusbar_extra_padding_category">Extra padding</string>
+    <string name="statusbar_extra_padding_start_title">Start padding</string>
+    <string name="statusbar_extra_padding_top_title">Top padding</string>
+    <string name="statusbar_extra_padding_end_title">End padding</string>
 </resources>
