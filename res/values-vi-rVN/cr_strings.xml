@@ -1145,4 +1145,9 @@ Dùng để phát hiện các cổng kết nối cố định.</string>
     <!-- Carrier name on lockscreen -->
     <string name="lockscreen_show_carrier_title">Tên nhà mạng</string>
     <string name="lockscreen_show_carrier_summary">Hiển thị tên nhà mạng trên thanh trạng thái</string>
+    <!-- Statusbar Padding -->
+    <string name="statusbar_extra_padding_category">Extra padding</string>
+    <string name="statusbar_extra_padding_start_title">Start padding</string>
+    <string name="statusbar_extra_padding_top_title">Top padding</string>
+    <string name="statusbar_extra_padding_end_title">End padding</string>
 </resources>
