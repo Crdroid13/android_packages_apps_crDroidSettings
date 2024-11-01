@@ -206,7 +206,7 @@
     <string name="power_menu_summary">Настройки параметров меню питания</string>
     <string name="power_menu_actions_title">Действия</string>
     <string name="power_menu_screenshot_title">Снимок экрана</string>
-    <string name="power_menu_screenshot_summary">Удерживайте, чтобы выделить область для снимка экрана</string>
+    <string name="power_menu_screenshot_summary">Удерживайте, чтобы сделать снимок части экрана</string>
     <string name="power_menu_onthego_title">Режим «На ходу»</string>
     <string name="power_menu_advanced_title">Расширенное меню перезагрузки</string>
     <string name="power_menu_airplane_title">Режим полёта</string>
@@ -222,7 +222,7 @@
     <!-- Advanced restart options -->
     <string name="advanced_reboot_title">Расширенная перезагрузка</string>
     <string name="advanced_reboot_summary">Когда устройство разблокировано, в меню питания доступны дополнительные варианты перезагрузки</string>
-    <string name="advanced_reboot_secured_title">На защищённом экране</string>
+    <string name="advanced_reboot_secured_title">Защищённый экран блокировки</string>
     <string name="advanced_reboot_secured_summary">Показывать дополнительные параметры перезагрузки на экране блокировки</string>
     <!-- UI settings -->
     <string name="monet_title">Настройки Monet</string>
@@ -235,15 +235,15 @@
     <string name="monet_engine_color_override_title">Выбранный цвет</string>
     <string name="monet_engine_luminance_factor_title">Яркость</string>
     <string name="monet_engine_luminance_factor_summary">Чем больше значение, тем ярче цвета</string>
-    <string name="monet_engine_chroma_factor_title">Цветность</string>
-    <string name="monet_engine_chroma_factor_summary">Чем больше значение, тем насыщеннее цвета</string>
+    <string name="monet_engine_chroma_factor_title">Коэффициент цветности</string>
+    <string name="monet_engine_chroma_factor_summary">Более высокие значения дают более яркие цвета</string>
     <string name="monet_engine_whole_palette_title">Вся палитра</string>
     <string name="monet_engine_whole_palette_summary">Выбор яркости и насыщенности также влияет на второстепенные цвета</string>
     <string name="monet_engine_tint_background_title">Оттенок фона</string>
     <string name="monet_engine_tint_background_summary">Выбор яркости и цветности, позволяет также влиять на цвета фона</string>
     <string name="monet_engine_style_title">Тема оформления</string>
     <string name="monet_engine_style_tonal_spot">Тональное пятно (По умолчанию)</string>
-    <string name="monet_engine_style_vibrant">Яркая</string>
+    <string name="monet_engine_style_vibrant">Живая</string>
     <string name="monet_engine_style_expressive">Выразительная</string>
     <string name="monet_engine_style_spritz">Брызги</string>
     <string name="monet_engine_style_rainbow">Радуга</string>
@@ -606,14 +606,14 @@
     <string name="battery_light_list_title">Цвета</string>
     <string name="battery_light_low_color_title">Батарея разряжена</string>
     <string name="battery_light_medium_color_title">Зарядка</string>
-    <string name="battery_light_full_color_title">Заряжена (&gt;90%)</string>
+    <string name="battery_light_full_color_title">Почти заряжена (&gt;90%)</string>
     <string name="battery_light_really_full_color_title">Полностью заряжена (100%)</string>
     <!-- Lights settings screen, notification light settings -->
     <string name="notification_light_title">Индикатор уведомлений</string>
     <string name="notification_light_enable_title">Включение индикации уведомлений</string>
-    <string name="notification_light_summary">Настроить цвет индикатора событий для уведомлений</string>
+    <string name="notification_light_summary">Настройка цвета светодиода для уведомлений</string>
     <string name="notification_light_general_title">Общие</string>
-    <string name="notification_light_advanced_title">Расширенные настройки</string>
+    <string name="notification_light_advanced_title">Расширенные</string>
     <string name="notification_light_applist_title">Приложения</string>
     <string name="notification_light_phonelist_title">Телефон</string>
     <string name="notification_light_use_custom">Использовать свои значения</string>
@@ -636,7 +636,7 @@
     <string name="notification_heads_up_timeout_summary">Время отображения всплывающих уведомлений</string>
     <!-- Less boring heads up -->
     <string name="less_boring_heads_up_title">Не надоедать</string>
-    <string name="less_boring_heads_up_summary">Показывать всплывающие уведомления только для будильника, набора номера и сообщений</string>
+    <string name="less_boring_heads_up_summary">Показывать всплывающие уведомления только для будильника, телефона и сообщений</string>
     <!-- Notifications while screen on -->
     <string name="notification_sound_vib_screen_on_title">Звуковое уведомление</string>
     <string name="notification_sound_vib_screen_on_summary">Проигрывать звук и вибрацию для уведомлений при включенном экране</string>
@@ -659,7 +659,7 @@
     <string name="flashlight_on_call_disabled">Отключено</string>
     <string name="flashlight_on_call_ringer">При звонке</string>
     <string name="flashlight_on_call_no_ringer">Когда звонок беззвучный</string>
-    <string name="flashlight_on_call_silent">Когда полная тишина (без звонков или вибрации)</string>
+    <string name="flashlight_on_call_silent">Когда полная тишина (без звука или вибрации)</string>
     <string name="flashlight_on_call_always">Всегда</string>
     <string name="flashlight_on_call_ignore_dnd_title">Игнорировать «Не беспокоить»</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Мигать, даже если включен режим «Не беспокоить»</string>
@@ -1089,14 +1089,14 @@
     <string name="qs_header_daylight_provider_title">Коллекция изображений</string>
     <string name="qs_header_file_provider_title">Своё изображение</string>
     <string name="qs_header_provider_title">Источник изображения</string>
-    <string name="qs_header_browse_title">Обзор предустановленных изображений</string>
+    <string name="qs_header_browse_title">Просмотр установленных заголовков</string>
     <string name="qs_header_browse_summary">Просмотр всех доступных коллекций</string>
     <string name="qs_header_pick_title">Выбор изображения заголовка</string>
-    <string name="qs_header_pick_summary">Выберите изображение для использования в статичном режиме</string>
+    <string name="qs_header_pick_summary">Выберите изображение для использования в статическом режиме</string>
     <string name="qs_header_file_select_title">Выбор изображения</string>
-    <string name="qs_header_file_select_summary">Выберите своё изображение</string>
+    <string name="qs_header_file_select_summary">Выбор своего изображения</string>
     <string name="qs_header_needs_gallery">Вы должны установить приложение галереи!</string>
-    <string name="qs_header_offset_title">Высота изображения</string>
+    <string name="qs_header_offset_title">Смещение изображения</string>
     <string name="qs_header_offset_summary">Изменение высоты изображения заголовка</string>
     <!-- Lockscreen Clock -->
     <string name="kg_custom_clock_top_margin_title">Положение вертикальных часов</string>
