@@ -1148,8 +1148,8 @@
     <string name="lockscreen_show_carrier_title">Carrier name</string>
     <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
     <!-- Statusbar Padding -->
-    <string name="statusbar_extra_padding_category">Extra padding</string>
-    <string name="statusbar_extra_padding_start_title">Start padding</string>
-    <string name="statusbar_extra_padding_top_title">Top padding</string>
-    <string name="statusbar_extra_padding_end_title">End padding</string>
+    <string name="statusbar_extra_padding_category">Spazio extra</string>
+    <string name="statusbar_extra_padding_start_title">Spazio all\'inizio</string>
+    <string name="statusbar_extra_padding_top_title">Spazio in alto</string>
+    <string name="statusbar_extra_padding_end_title">Spazio alla fine</string>
 </resources>
