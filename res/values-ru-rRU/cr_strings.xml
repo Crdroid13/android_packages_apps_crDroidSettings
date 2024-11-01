@@ -1152,4 +1152,9 @@
     <!-- Carrier name on lockscreen -->
     <string name="lockscreen_show_carrier_title">Название оператора</string>
     <string name="lockscreen_show_carrier_summary">Показывать название оператора в строке состояния</string>
+    <!-- Statusbar Padding -->
+    <string name="statusbar_extra_padding_category">Дополнительный отступ</string>
+    <string name="statusbar_extra_padding_start_title">Начало отступа</string>
+    <string name="statusbar_extra_padding_top_title">Верхний отступ</string>
+    <string name="statusbar_extra_padding_end_title">Конечный отступ</string>
 </resources>
