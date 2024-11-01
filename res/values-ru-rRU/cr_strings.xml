@@ -1156,5 +1156,5 @@
     <string name="statusbar_extra_padding_category">Дополнительный отступ</string>
     <string name="statusbar_extra_padding_start_title">Начало отступа</string>
     <string name="statusbar_extra_padding_top_title">Верхний отступ</string>
-    <string name="statusbar_extra_padding_end_title">Конечный отступ</string>
+    <string name="statusbar_extra_padding_end_title">Конец отступа</string>
 </resources>
