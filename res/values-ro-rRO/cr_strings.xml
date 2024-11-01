@@ -1150,8 +1150,8 @@
     <string name="lockscreen_show_carrier_title">Numele operatorului</string>
     <string name="lockscreen_show_carrier_summary">Afișați numele operatorului în bara de stare</string>
     <!-- Statusbar Padding -->
-    <string name="statusbar_extra_padding_category">Extra padding</string>
-    <string name="statusbar_extra_padding_start_title">Start padding</string>
-    <string name="statusbar_extra_padding_top_title">Top padding</string>
-    <string name="statusbar_extra_padding_end_title">End padding</string>
+    <string name="statusbar_extra_padding_category">Umplutură extra</string>
+    <string name="statusbar_extra_padding_start_title">Start umplutură</string>
+    <string name="statusbar_extra_padding_top_title">Umplutură sus</string>
+    <string name="statusbar_extra_padding_end_title">Umplutură final</string>
 </resources>
