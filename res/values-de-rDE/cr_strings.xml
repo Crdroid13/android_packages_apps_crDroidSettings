@@ -1148,8 +1148,8 @@ Die in Apps festgelegten Muster haben Vorrang</string>
     <string name="lockscreen_show_carrier_title">Name des Mobilfunkanbieters</string>
     <string name="lockscreen_show_carrier_summary">Mobilfunkanbieter in Statusleiste anzeigen</string>
     <!-- Statusbar Padding -->
-    <string name="statusbar_extra_padding_category">Extra padding</string>
-    <string name="statusbar_extra_padding_start_title">Start padding</string>
-    <string name="statusbar_extra_padding_top_title">Top padding</string>
-    <string name="statusbar_extra_padding_end_title">End padding</string>
+    <string name="statusbar_extra_padding_category">Zusätzlicher Abstand</string>
+    <string name="statusbar_extra_padding_start_title">Abstand zum Anfang</string>
+    <string name="statusbar_extra_padding_top_title">Abstand nach oben</string>
+    <string name="statusbar_extra_padding_end_title">Abstand zum Ende</string>
 </resources>
