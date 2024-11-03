@@ -1146,8 +1146,8 @@ Dùng để phát hiện các cổng kết nối cố định.</string>
     <string name="lockscreen_show_carrier_title">Tên nhà mạng</string>
     <string name="lockscreen_show_carrier_summary">Hiển thị tên nhà mạng trên thanh trạng thái</string>
     <!-- Statusbar Padding -->
-    <string name="statusbar_extra_padding_category">Phần đệm thêm</string>
-    <string name="statusbar_extra_padding_start_title">Phần đệm bắt đầu</string>
-    <string name="statusbar_extra_padding_top_title">Phần đệm trên cùng</string>
-    <string name="statusbar_extra_padding_end_title">Phần đệm cuối cùng</string>
+    <string name="statusbar_extra_padding_category">Phần đệm thanh trạng thái</string>
+    <string name="statusbar_extra_padding_start_title">Bên trái</string>
+    <string name="statusbar_extra_padding_top_title">Lên xuống</string>
+    <string name="statusbar_extra_padding_end_title">Bên phải</string>
 </resources>
